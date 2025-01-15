@@ -1,12 +1,11 @@
-
 import './App.css'
-import HelloWord from './HelloWorld'
+import ListTimeRecordComponent from './components/ListTimeRecordComponent'
 
 function App() {
 
   return (
     <>
-      <HelloWord/>
+      <ListTimeRecordComponent/>
     </>
   )
 }
